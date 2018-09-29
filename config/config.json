@@ -1,0 +1,12 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://192.168.1.8:27017/SchoolSystemMskTest",
+    "JWT_SECRET": "poijasdf98435jpgfdpoij3"
+  },
+  "development": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://192.168.1.8:27017/SchoolSystemMsk",
+    "JWT_SECRET": "pojiaj234oi234oij234oij4"
+  }
+}
